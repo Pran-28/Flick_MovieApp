@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Flick_MovieApp.git%20/static/css/main.78ce906e.css",
+    "main.js": "/Flick_MovieApp.git%20/static/js/main.c24e102b.js",
+    "static/js/787.b05241c1.chunk.js": "/Flick_MovieApp.git%20/static/js/787.b05241c1.chunk.js",
+    "index.html": "/Flick_MovieApp.git%20/index.html",
+    "main.78ce906e.css.map": "/Flick_MovieApp.git%20/static/css/main.78ce906e.css.map",
+    "main.c24e102b.js.map": "/Flick_MovieApp.git%20/static/js/main.c24e102b.js.map",
+    "787.b05241c1.chunk.js.map": "/Flick_MovieApp.git%20/static/js/787.b05241c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78ce906e.css",
+    "static/js/main.c24e102b.js"
+  ]
+}
